@@ -1,0 +1,12 @@
+F:\VS_Proj\BMSKnee\BCnEnc.Net\bin\Debug\netstandard2.1\BCnEncoder.xml
+F:\VS_Proj\BMSKnee\BCnEnc.Net\bin\Debug\netstandard2.1\BCnEncoder.deps.json
+F:\VS_Proj\BMSKnee\BCnEnc.Net\bin\Debug\netstandard2.1\BCnEncoder.dll
+F:\VS_Proj\BMSKnee\BCnEnc.Net\bin\Debug\netstandard2.1\BCnEncoder.pdb
+F:\VS_Proj\BMSKnee\BCnEnc.Net\obj\Debug\netstandard2.1\BCnEncoder.csproj.AssemblyReference.cache
+F:\VS_Proj\BMSKnee\BCnEnc.Net\obj\Debug\netstandard2.1\BCnEncoder.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS_Proj\BMSKnee\BCnEnc.Net\obj\Debug\netstandard2.1\BCnEncoder.AssemblyInfoInputs.cache
+F:\VS_Proj\BMSKnee\BCnEnc.Net\obj\Debug\netstandard2.1\BCnEncoder.AssemblyInfo.cs
+F:\VS_Proj\BMSKnee\BCnEnc.Net\obj\Debug\netstandard2.1\BCnEncoder.csproj.CoreCompileInputs.cache
+F:\VS_Proj\BMSKnee\BCnEnc.Net\obj\Debug\netstandard2.1\BCnEncoder.sourcelink.json
+F:\VS_Proj\BMSKnee\BCnEnc.Net\obj\Debug\netstandard2.1\BCnEncoder.dll
+F:\VS_Proj\BMSKnee\BCnEnc.Net\obj\Debug\netstandard2.1\BCnEncoder.pdb

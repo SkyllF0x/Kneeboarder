@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MeFWnM5+BNN/vscPJd9o5bpdy2ppOYecQSOlmC66r17oI71dFdW9MuU0amr9U6ok0ZdlP2XTsb2Ax73/aruYA==",
+  "success": true,
+  "projectFilePath": "F:\\VS_Proj\\BMSKnee\\BCnEnc.Net\\BCnEncoder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.toolkit.highperformance\\7.0.2\\microsoft.toolkit.highperformance.7.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
